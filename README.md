@@ -1,3 +1,3 @@
 # Walmart-Sales-Analysis
 
-This project demonstrates the Walmart sales analysis and covering different part of the analytical questions using MySQL in SQL Server Management Studio Software.
+This project covers the analytical questions based on the category of generic, sales, and product and Walmart sale analysis using MySQL in SQL Server Management Studio Software.
